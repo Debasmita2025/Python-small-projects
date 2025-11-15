@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Frontend mastering",
+        "done": true
+    },
+    {
+        "task": "Deep learning mastering",
+        "done": false
+    },
+    {
+        "task": "Web develope mastering",
+        "done": false
+    },
+    {
+        "task": "Python mastering",
+        "done": false
+    },
+    {
+        "task": "Machine learning mastering",
+        "done": false
+    }
+]

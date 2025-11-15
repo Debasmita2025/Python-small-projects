@@ -1,0 +1,297 @@
+[
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["A. Tokyo", "B. Beijing", "C. Seoul", "D. Bangkok"],
+    "answer": "A"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Hydrogen"],
+    "answer": "C"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "A. Charles Dickens",
+      "B. William Shakespeare",
+      "C. Mark Twain",
+      "D. Jane Austen"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "options": ["A. Atlantic", "B. Indian", "C. Arctic", "D. Pacific"],
+    "answer": "D"
+  },
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["A. Go", "B. Au", "C. Ag", "D. Gd"],
+    "answer": "B"
+  },
+  {
+    "question": "In which country is the Great Pyramid of Giza located?",
+    "options": ["A. Mexico", "B. Peru", "C. Egypt", "D. India"],
+    "answer": "C"
+  },
+  {
+    "question": "Which is the smallest prime number?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 5"],
+    "answer": "B"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "A. Vincent van Gogh",
+      "B. Leonardo da Vinci",
+      "C. Pablo Picasso",
+      "D. Claude Monet"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["A. Mercury", "B. Venus", "C. Earth", "D. Mars"],
+    "answer": "A"
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["A. Sahara", "B. Gobi", "C. Antarctic", "D. Kalahari"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["A. 10", "B. 11", "C. 12", "D. 13"],
+    "answer": "C"
+  },
+  {
+    "question": "Which country invented paper?",
+    "options": ["A. India", "B. Egypt", "C. China", "D. Greece"],
+    "answer": "C"
+  },
+  {
+    "question": "Which is the fastest land animal?",
+    "options": ["A. Lion", "B. Cheetah", "C. Horse", "D. Tiger"],
+    "answer": "B"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["A. Amazon", "B. Nile", "C. Yangtze", "D. Mississippi"],
+    "answer": "B"
+  },
+  {
+    "question": "How many continents are there in the world?",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["A. Paris", "B. London", "C. Rome", "D. Madrid"],
+    "answer": "A"
+  },
+  {
+    "question": "Who developed Python programming language?",
+    "options": [
+      "A. Dennis Ritchie",
+      "B. Guido van Rossum",
+      "C. James Gosling",
+      "D. Bjarne Stroustrup"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": ["A. 10", "B. 11", "C. 12", "D. 13"],
+    "answer": "C"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["A. Venus", "B. Mars", "C. Jupiter", "D. Saturn"],
+    "answer": "B"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": ["A. 1939", "B. 1942", "C. 1945", "D. 1948"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["A. H2", "B. H2O", "C. O2", "D. CO2"],
+    "answer": "B"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "A. Vincent van Gogh",
+      "B. Pablo Picasso",
+      "C. Leonardo da Vinci",
+      "D. Michelangelo"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "A. Elephant",
+      "B. Blue Whale",
+      "C. Giraffe",
+      "D. Hippopotamus"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "C"
+  },
+  {
+    "question": "Who is known as the Father of Computers?",
+    "options": [
+      "A. Alan Turing",
+      "B. Charles Babbage",
+      "C. Thomas Edison",
+      "D. Nikola Tesla"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which is the smallest prime number?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 5"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["A. Yen", "B. Yuan", "C. Won", "D. Dollar"],
+    "answer": "A"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Hydrogen"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "options": ["A. 90", "B. 95", "C. 100", "D. 105"],
+    "answer": "C"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "A. Charles Dickens",
+      "B. William Shakespeare",
+      "C. Mark Twain",
+      "D. Jane Austen"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which is the largest ocean in the world?",
+    "options": ["A. Atlantic", "B. Indian", "C. Arctic", "D. Pacific"],
+    "answer": "D"
+  },
+  {
+    "question": "Which country invented tea?",
+    "options": ["A. India", "B. China", "C. Japan", "D. England"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["A. 10", "B. 11", "C. 12", "D. 13"],
+    "answer": "C"
+  },
+  {
+    "question": "Which is the fastest land animal?",
+    "options": ["A. Lion", "B. Cheetah", "C. Horse", "D. Tiger"],
+    "answer": "B"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["A. Amazon", "B. Nile", "C. Yangtze", "D. Mississippi"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["A. Go", "B. Au", "C. Ag", "D. Gd"],
+    "answer": "B"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["A. Mercury", "B. Venus", "C. Earth", "D. Mars"],
+    "answer": "A"
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["A. Sahara", "B. Gobi", "C. Antarctic", "D. Kalahari"],
+    "answer": "C"
+  },
+  {
+    "question": "Which country invented paper?",
+    "options": ["A. India", "B. Egypt", "C. China", "D. Greece"],
+    "answer": "C"
+  },
+  {
+    "question": "Which language has the most native speakers?",
+    "options": ["A. English", "B. Mandarin Chinese", "C. Hindi", "D. Spanish"],
+    "answer": "B"
+  },
+  {
+    "question": "Which is the tallest mountain in the world?",
+    "options": ["A. K2", "B. Kangchenjunga", "C. Mount Everest", "D. Lhotse"],
+    "answer": "C"
+  },
+  {
+    "question": "In which country is the Eiffel Tower located?",
+    "options": ["A. Italy", "B. France", "C. Spain", "D. Germany"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["A. Saturn", "B. Jupiter", "C. Neptune", "D. Uranus"],
+    "answer": "B"
+  },
+  {
+    "question": "Which is the most spoken language in the world?",
+    "options": ["A. English", "B. Spanish", "C. Mandarin Chinese", "D. Hindi"],
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first person to step on the Moon?",
+    "options": [
+      "A. Yuri Gagarin",
+      "B. Neil Armstrong",
+      "C. Buzz Aldrin",
+      "D. Michael Collins"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["A. France", "B. England", "C. Spain", "D. Germany"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "options": ["A. Greenland", "B. New Guinea", "C. Borneo", "D. Madagascar"],
+    "answer": "A"
+  },
+  {
+    "question": "Which is the fastest bird in the world?",
+    "options": ["A. Eagle", "B. Peregrine Falcon", "C. Hawk", "D. Swift"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["A. Gold", "B. Diamond", "C. Platinum", "D. Iron"],
+    "answer": "B"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      "A. Alexander Graham Bell",
+      "B. Thomas Edison",
+      "C. Nikola Tesla",
+      "D. Guglielmo Marconi"
+    ],
+    "answer": "A"
+  }
+]
