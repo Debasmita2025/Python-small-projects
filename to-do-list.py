@@ -1,6 +1,6 @@
 import json
 import os
-FILENAME = r"C:\Users\darke\OneDrive\Desktop\Python Vs code\Projects\To-do-list.json"
+FILENAME = r"E:\Codes and data\Python Vs code\Projects\to-do-list.json"
 if os.path.exists(FILENAME):
   with open(FILENAME, "r") as f:
     tasks = json.load(f)
