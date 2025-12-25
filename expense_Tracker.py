@@ -1,7 +1,7 @@
 import json
 import os
 
-FILENAME = r"C:\Users\darke\OneDrive\Desktop\Python Vs code\Projects\Expense-Tracker.json"
+FILENAME = r"E:\Codes and data\Python Vs code\Projects\expense-Tracker.json"
 
 if os.path.exists(FILENAME):
   with open(FILENAME, "r") as f:
@@ -31,7 +31,7 @@ while True:
       print("--Your Expenses--")
 
       for key, val in enumerate(tasks, start=1):
-        print(f"{key}. Category: {val["Category"]}\tDescription: {val["Description"]}\tAmount: {val["Amount"]}")
+        print(f"{key}. Category: {val["Category"]}\n   Description: {val["Description"]}\n   Amount: {val["Amount"]}")
         total += val["Amount"]
         print(f"The total expense is: {total}")
   

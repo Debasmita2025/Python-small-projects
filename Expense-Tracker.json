@@ -3,5 +3,10 @@
         "Category": "Transport",
         "Description": "Fare of bus and auto",
         "Amount": 50
+    },
+    {
+        "Category": "food",
+        "Description": "junk food",
+        "Amount": 500
     }
 ]

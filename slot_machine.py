@@ -130,7 +130,7 @@ def spin(bal):
           continue
       break
   
-  print(f"{Fore.BLUE}Balance: ${bal} | Lines: {lines} | Bet: ${bet} | Total: ${t_bet}")
+  print(f"{Fore.BLUE}Balance: ${bal} | Lines: {lines} | Bet per line: ${bet} | Total bet: ${t_bet}")
   
   slots = get_slot_machine_spin(ROWS, COLS, symbol_count)
   print_slot_machine(slots)
