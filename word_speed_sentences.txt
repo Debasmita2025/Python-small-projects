@@ -1,0 +1,5 @@
+Python makes it easy to build cool projects.
+Typing speed improves with regular practice.
+Data science and machine learning use Python a lot.
+Consistent effort beats short bursts of work.
+You are building awesome Python projects in VS Code.
