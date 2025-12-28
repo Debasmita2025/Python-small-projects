@@ -4,7 +4,7 @@ from colorama import init, Fore, Style
 import os
 
 init()
-HISTORY_FILE = "currency_history.json"
+HISTORY_FILE = r"E:\Codes and data\Python Vs code\Projects\currency_history.json"
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')

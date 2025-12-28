@@ -1,0 +1,18 @@
+[
+  {
+    "base": "CNY",
+    "target": "INR",
+    "amount": 100.0,
+    "converted": 1272.0,
+    "rate": 12.72,
+    "date": "The current date is: 25-12-2025 \nEnter the new date: (dd-mm-yy)"
+  },
+  {
+    "base": "JPY",
+    "target": "INR",
+    "amount": 100.0,
+    "converted": 57.4,
+    "rate": 0.574,
+    "date": "The current date is: 28-12-2025 \nEnter the new date: (dd-mm-yy)"
+  }
+]

@@ -6,14 +6,14 @@ init()
 
 def write_key():
   key = Fernet.generate_key()
-  with open("key.key", 'wb') as key_file:
+  with open(r"E:\Codes and data\Python Vs code\Projects\key.key", 'wb') as key_file:
     key_file.write(key)
 
 def clear_screen():
   os.system('cls' if os.name == 'nt' else 'clear')
 
 def view():
-  with open('passwords.txt', 'r') as f:
+  with open(r'E:\Codes and data\Python Vs code\Projects\passwords.txt', 'r') as f:
     for line in f.readlines():
       data = line.rstrip()
       name, psd = data.split("|")
@@ -24,7 +24,7 @@ def add():
   nm = input(f"{Fore.BLUE}Account name: ")
   pwd = input(f"{Fore.BLUE}Password: ")
 
-  with open('passwords.txt', 'a') as f:
+  with open(r"E:\Codes and data\Python Vs code\Projects\passwords.txt", 'a') as f:
     f.write(nm + "|" + pwd + "\n")
 
 def main():
